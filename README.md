@@ -1,9 +1,5 @@
-# area
+# Area Lab
 
-Placeholder repository.
+Quick area calculator for rectangle, triangle, circle, and trapezoid.
 
-Previously empty — now initialized with a clean starter.
-
-## License
-
-MIT
+Open `index.html`.
